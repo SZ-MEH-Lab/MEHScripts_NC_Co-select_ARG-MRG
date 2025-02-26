@@ -1,5 +1,5 @@
 # NC_Co-select_ARG-MRG
-Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome
+**Organic fertilization co-selects genetically linked antibiotic and metal(loid) resistance genes in global soil microbiome**
 
 Zi-Teng Liu<sup>1</sup>, Rui-Ao Ma<sup>1</sup>, Dong Zhu<sup>2</sup>, Konstantinos T. Konstantinidis<sup>3</sup>, Yong-Guan Zhu<sup>4,5</sup>, and Si-Yu Zhang<sup>1</sup><sup>*</sup>
 
